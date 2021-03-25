@@ -1,6 +1,5 @@
->>> This repository is destined for my exercise resolutions of the courses provided by kaggle
-
->>> [My perfil on kaggle](https://www.kaggle.com/mylenamariana/code "My perfil on kaggle")
+###### This repository is destined for my exercise resolutions of the courses provided by kaggle
+###### [My perfil on kaggle](https://www.kaggle.com/mylenamariana/code "My perfil on kaggle")
 
 # Kaggle - [Courses](https://www.kaggle.com/learn/overview "Kaggle - Courses")
 

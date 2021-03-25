@@ -18,6 +18,7 @@ This repository is destined for my exercise solutions of the courses provided by
 * [Exercise 06: Strings and Dictionaries](https://www.kaggle.com/mylenamariana/python-exercise06-strings-and-dictionaries "Exercise 06: Strings and Dictionaries")
 * [Exercise 07: Working with External Libraries](https://www.kaggle.com/mylenamariana/python-exercise07-working-with-external-libraries "Exercise 07: Working with External Libraries")
 
-## Certificate 
+### Certificate 
+
 ###### [My perfil on kaggle](https://www.kaggle.com/mylenamariana/code "My perfil on kaggle")
 ![python-kaggle-mylena](https://user-images.githubusercontent.com/16190760/112230045-ec7f5580-8c12-11eb-9e6c-be067b2459c8.png)
