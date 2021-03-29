@@ -15,8 +15,9 @@ This repository is destined for my exercise solutions of the courses provided by
 * [Exercise 03: Summary Functions and Map](https://www.kaggle.com/mylenamariana/pandas-exercise03-summary-functions-and-maps "Exercise 03: Summary Functions and Map")
 * [Exercise 04: Grouping and Sorting](https://www.kaggle.com/mylenamariana/pandas-exercise04-grouping-and-sorting "Exercise 04: Grouping and Sorting")
 * [Exercise 05: Data Types and Missing Values](https://www.kaggle.com/mylenamariana/pandas-exercise05-data-types-and-missing-values "Exercise 05: Data Types and Missing Values")
+* [Exercise 06: Renaming and Combining](https://www.kaggle.com/mylenamariana/pandas-exercise06-renaming-and-combining "Exercise 06: Renaming and Combining")
 
 ## Certificate 
 ###### [My perfil on kaggle](https://www.kaggle.com/mylenamariana/code "My perfil on kaggle")
 
-<!-- ![??????????](??????????) -->
+![Pandas Certificate - Mylena](https://user-images.githubusercontent.com/16190760/112863874-af411a80-908d-11eb-89e8-7bfe4a8bb7e0.png "Pandas Certificate - Mylena")
