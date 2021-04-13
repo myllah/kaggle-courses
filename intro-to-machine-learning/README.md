@@ -12,6 +12,8 @@ This repository is destined for my exercise solutions of the courses provided by
 ## See my solutions directly on kaggle
 * [Exercise 01: Explore Your Data](https://www.kaggle.com/mylenamariana/intro-machine-learning-ex1-explore-your-data/ "Exercise 01: Explore Your Data")
 * [Exercise 02: Your First Machine Learning Model](https://www.kaggle.com/mylenamariana/intro-machine-learning-ex2-your-first-ml-model "Exercise 02: Your First Machine Learning Model")
+* [Exercise 03: Model Validation](https://www.kaggle.com/mylenamariana/intro-machine-learning-ex3-model-validation "Exercise 03: Model Validation")
+* [Exercise 04: Underfitting and Overfitting](https://www.kaggle.com/mylenamariana/intro-machine-learning-ex4-underfittingoverfitting "Exercise 04: Underfitting and Overfitting")
 
 ### Certificate 
 
