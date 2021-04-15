@@ -14,6 +14,8 @@ This repository is destined for my exercise solutions of the courses provided by
 * [Exercise 02: Your First Machine Learning Model](https://www.kaggle.com/mylenamariana/intro-machine-learning-ex2-your-first-ml-model "Exercise 02: Your First Machine Learning Model")
 * [Exercise 03: Model Validation](https://www.kaggle.com/mylenamariana/intro-machine-learning-ex3-model-validation "Exercise 03: Model Validation")
 * [Exercise 04: Underfitting and Overfitting](https://www.kaggle.com/mylenamariana/intro-machine-learning-ex4-underfittingoverfitting "Exercise 04: Underfitting and Overfitting")
+* [Exercise 05: Random Forests](https://www.kaggle.com/mylenamariana/intro-machine-learning-ex5-random-forests "Exercise 05: Random Forests")
+* [Exercise 06: Machine Learning Competitions](https://www.kaggle.com/mylenamariana/intro-to-machine-learning-exercise06-competitions "Exercise 06: Machine Learning Competitions")
 
 ### Certificate 
 
