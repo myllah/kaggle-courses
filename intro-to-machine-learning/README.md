@@ -22,3 +22,4 @@ This repository is destined for my exercise solutions of the courses provided by
 ###### [My perfil on kaggle](https://www.kaggle.com/mylenamariana/code "My perfil on kaggle")
 
 
+![Mylena Mariana Pires Barbosa - Intro to Machine Learning](https://user-images.githubusercontent.com/16190760/114808056-ea299a80-9d7d-11eb-9094-faca73832549.png)
