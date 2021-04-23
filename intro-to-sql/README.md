@@ -21,4 +21,4 @@ This repository is destined for my exercise solutions of the courses provided by
 
 ###### [My perfil on kaggle](https://www.kaggle.com/mylenamariana/code "My perfil on kaggle")
 
-
+![Mylena Mariana Pires Barbosa - Intro to SQL](https://user-images.githubusercontent.com/16190760/115875931-1dbe9180-a41c-11eb-8994-d719157f9498.png)
