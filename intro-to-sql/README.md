@@ -10,9 +10,12 @@ This repository is destined for my exercise solutions of the courses provided by
 * Learn SQL for working with databases, using Google BigQuery [here](https://www.kaggle.com/learn/intro-to-machine-learning "Learn Machine Learning - Kaggle").
 
 ## See my solutions directly on kaggle
-*[Ex01: Getting Started With SQL and BigQuery](https://www.kaggle.com/mylenamariana/intro-to-sql-ex01-gettingstartedwithsqlandbigquery "Ex01: Getting Started With SQL and BigQuery")
-*[Ex02: Select, From & Where](https://www.kaggle.com/mylenamariana/intro-to-sql-ex02-select-from-where "Ex02: Select, From & Where")
-*[Ex03: Group By, Having & Count](https://www.kaggle.com/mylenamariana/intro-to-sql-ex03-groupby-having-count "Ex03: Group By, Having & Count")
+* [Ex01: Getting Started With SQL and BigQuery](https://www.kaggle.com/mylenamariana/intro-to-sql-ex01-gettingstartedwithsqlandbigquery "Ex01: Getting Started With SQL and BigQuery")
+* [Ex02: Select, From & Where](https://www.kaggle.com/mylenamariana/intro-to-sql-ex02-select-from-where "Ex02: Select, From & Where")
+* [Ex03: Group By, Having & Count](https://www.kaggle.com/mylenamariana/intro-to-sql-ex03-groupby-having-count "Ex03: Group By, Having & Count")
+* [Ex04: Order By](https://www.kaggle.com/mylenamariana/intro-to-sql-ex04-orderby "Ex04: Order By")
+* [Ex05: As & With](https://www.kaggle.com/mylenamariana/intro-to-sql-ex05-as-with "Ex05: As & With")
+* [Ex06: Joining Data](https://www.kaggle.com/mylenamariana/intro-to-sql-ex06-joining-data "Ex06: Joining Data")
 
 ### Certificate 
 
