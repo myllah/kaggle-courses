@@ -7,7 +7,7 @@ This repository is destined for my exercise solutions of the courses provided by
 * Learn with Kaggle [here](https://www.kaggle.com/learn/overview "Learn with Kaggle")
 
 ## About Intro to SQL Course
-* Learn SQL for working with databases, using Google BigQuery [here](https://www.kaggle.com/learn/intro-to-machine-learning "Learn Machine Learning - Kaggle").
+* Learn SQL for working with databases, using Google BigQuery [here](https://www.kaggle.com/learn/intro-to-sql "Learn Intro to SQL - Kaggle").
 
 ## See my solutions directly on kaggle
 * [Ex01: Getting Started With SQL and BigQuery](https://www.kaggle.com/mylenamariana/intro-to-sql-ex01-gettingstartedwithsqlandbigquery "Ex01: Getting Started With SQL and BigQuery")
